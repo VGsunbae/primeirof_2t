@@ -1,5 +1,5 @@
 body {
-  background: lightgreen;
+  background: rgb(41, 2, 41);
   margin: 0;
   padding: 0;
 }
@@ -65,10 +65,6 @@ li a:hover {
   background: bisque;
 }
 
-#image {
-  width: 30%;
-}
-
 .boximage {
   display: flex;
   justify-content: center;
@@ -96,4 +92,8 @@ li a:hover {
   height: 40px;
   background: lightcoral;
   color: blanchedalmond;
+}
+
+#tituloHome {
+  text-align: center;
 }
