@@ -1,5 +1,5 @@
 body {
-  background: rgb(41, 2, 41);
+  background: blueviolet;
   margin: 0;
   padding: 0;
 }
@@ -36,7 +36,7 @@ height: 300px;
   position: absolute;
   width: 100%;
   height: 45px;
-  background: darkgreen;
+  background: darkblue;
   top: 0;
   left: 0;
 }
@@ -90,10 +90,14 @@ li a:hover {
 #rodape {
   width: 100%;
   height: 40px;
-  background: lightcoral;
+  background: blue;
   color: blanchedalmond;
 }
 
 #tituloHome {
+  text-align: center;
+}
+
+#tituloPagina1 {
   text-align: center;
 }
