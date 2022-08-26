@@ -1,103 +1,103 @@
-body {
-  background: blueviolet;
-  margin: 0;
-  padding: 0;
-}
 
-h1{
-  text-align: center;
-  height: -200px;
-}
-
-h2{
-text-align: center;
-height: 300px;
-}
-
-.caixa1 {
-  position: absolute;
-  background: lightblue;
-  width: 200px;
-  height: 200px;
-  right: 400px;
-  bottom: 200;
-}
-
-.caixa2 {
-  position: absolute;
-  background: lightpink;
-  width: 200px;
-  height: 200px;
-  right: 705px;
-  bottom: 200;
-}
-
-.menuPrincipal {
-  position: absolute;
-  width: 100%;
-  height: 45px;
-  background: darkblue;
-  top: 0;
-  left: 0;
-}
-
-nav ul {
-list-style-type: none ;
-margin: 0;
-padding: 0;
-overflow: 0;
-}
-
-li {
-float: left;
-}
-
-li a {
-  display: block;
-  color: aqua;
-  padding: 14px 16px;
-  text-align: center;
-  text-decoration: none;
-}
-
-li a:hover {
-  color: aquamarine;
-  background: bisque;
-}
-
-.boximage {
-  display: flex;
-  justify-content: center;
-  position: absolute;
-  width: 100%;
-  height: 50%;
-  background: pink;
-  top: 50px;
-  left: 0%;
-  margin: 20px;
-  border-color: black;
-  border-width: 20px;
-  border-style: solid;
-  padding: 20px;
-}
-
-.conteudo {
-  position: absolute;
-  top: 45px;
-  width: 100%;
-}
-
-#rodape {
-  width: 100%;
-  height: 40px;
-  background: blue;
-  color: blanchedalmond;
-}
-
-#tituloHome {
-  text-align: center;
-}
-
-#tituloPagina1 {
-  text-align: center;
-}
+  li a {
+    display: block;
+    color: rgb(255, 230, 0);
+    color: #ffe600;
+    padding: 14px 16px;
+    text-align: center;
+    text-decoration: none;
+  }
+  li a:hover {
+    color: rgb(255, 145, 0);
+    background-color: rgb(76, 39, 126);
+    color: #ffc400;
+    background-color: #4c277e;
+  }
+  
+  #image{
+   {
+    position: absolute;
+    top: 45px;
+    width: 100%;
+    color: rgb(252, 255, 51);
+    color: #fcff33;
+  }
+  
+  #rodape {
+    width: 100%;
+    height: 35px;
+    background-color: rgb(76, 39, 126);
+    background-color: #4c277e;
+    color: #fcff57;
+  }
+  
+  .lista {
+    display: block; 
+  }
+    4  
+  pagina01.html
+ 
+        </ul>
+    </nav>
+  </div>
+  </div>
+  <div class="boxImage">
+      <img id="image" src="gatooo.jpg" alt="">
+  </div>
+  </body>
+  </html> 
+    48  
+  pagina02.html
+  
+    </nav>
+  </div>
+  </div>
+  <div class="conteudo">
+      <h1>Signos</h1>
+            <p>
+              A divisão do caminho em que o Sol aparentemente se move em relação à Terra, em doze partes iguais, foi criada pelos astrônomos babilônios entre 1000 a.C e 500 a.C, de forma que cada uma dessas partes durasse o equivalente a 30 dias. A essas partes do trajeto do Sol foram atribuídos signos, dessa maneira, os babilônios foram responsáveis por criar o primeiro sistema de coordenadas celestial.
+           </p>
+          <p>
+               A Astrologia moderna atribui os signos ao momento de nascimento das pessoas, de acordo com ela, a posição dos astros pode estar relacionada a características pessoais. Confira quais são constelações do zodíaco e as datas em que o Sol encontrava-se sobre elas, no momento da definição do zodíaco:
+          </p>
+      <ul>
+          <li class="lista">
+              Áries: Entre 21 de março a 20 de abril
+          </li>
+          <li class="lista">
+              Touro: Entre 21 de abril e 20 de maio
+          </li>
+          <li class="lista">
+              Gêmeos: Entre 21 de maio a 21 de junho
+          </li>
+          <li class="lista">
+              Câncer: Entre 22 de junho a 22 de julho
+          </li>
+          <li class="lista">
+              Leão: Entre 23 de julho a 22 de agosto
+          </li>
+          <li class="lista">
+              Virgem: Entre 23 de agosto a 22 de setembro
+          </li>
+          <li class="lista">
+              Libra: Entre 23 de setembro a 22 de outubro
+          </li>
+          <li class="lista">
+              Escorpião: Entre 23 de outubro e 21 de novembro
+          </li>
+          <li class="lista">
+              Sagitário: Entre 22 de novembro e 21 de dezembro
+          </li>
+          <li class="lista">
+              Capricórnio: Entre 22 de dezembro e 19 de janeiro
+          </li>
+          <li class="lista">
+              Aquário: Entre 20 de janeiro e 18 de fevereiro
+          </li>
+          <li class="lista">
+              Peixes: Entre 19 de fevereiro e 20 de março
+          </li>
+      </ul>
+  </div>
+  </body>
+  </html> 
